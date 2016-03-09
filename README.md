@@ -2,7 +2,7 @@
 [![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.bsvrz.sys.funclib.dataIdentificationSettings/images/download.svg)](https://bintray.com/datenverteiler/maven/de.bsvrz.sys.funclib.dataIdentificationSettings)
 
 de.bsvrz.sys.funclib.dataIdentificationSettings v${project.version}
-=======================================================
+======================================================
 
 
 Bauen und Veröffentlichen
